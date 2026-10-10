@@ -1,0 +1,74 @@
+{
+    "eventlist": [
+        {
+            "id": 1,
+            "date": "2026-10-30",
+            "title": "NIGHTMARE ON MENSING STREET JG 5-9",
+            "tags": {
+                "time": "Ab 15:00",
+                "location": "IGS-Mensa"
+            },
+            "registration": {
+                "required": false,
+                "url": ""
+            },
+            "canceled": false
+        },
+        {
+            "id": 2,
+            "date": "2026-10-30",
+            "title": "NIGHTMARE ON MENSING STREET JG 10-13",
+            "tags": {
+                "time": "Ab 19:00",
+                "location": "IGS-Mensa"
+            },
+            "registration": {
+                "required": true,
+                "url": "https://halloween-ohz.netlify.app/"
+            },
+            "canceled": true
+        },
+        {
+            "id": 3,
+            "date": "2026-12-01",
+            "title": "Weihnachtskonzert 2026",
+            "tags": {
+                "time": "Ab 19:30",
+                "location": "IGS-Mensa"
+            },
+            "registration": {
+                "required": false,
+                "url": ""
+            },
+            "canceled": false
+        },
+        {
+            "id": 4,
+            "date": "2027-02-25",
+            "title": "Verdenaufführung 2027 N1",
+            "tags": {
+                "time": "Ab 19:30",
+                "location": "IGS-Mensa"
+            },
+            "registration": {
+                "required": false,
+                "url": ""
+            },
+            "canceled": false
+        },
+        {
+            "id": 5,
+            "date": "2027-02-26",
+            "title": "Verdenaufführung 2027 N2",
+            "tags": {
+                "time": "Ab 9:50",
+                "location": "IGS-Mensa"
+            },
+            "registration": {
+                "required": false,
+                "url": ""
+            },
+            "canceled": false
+        }
+    ]
+}
