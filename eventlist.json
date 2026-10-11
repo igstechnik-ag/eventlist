@@ -29,7 +29,7 @@
                 "required": true,
                 "url": "https://halloween-ohz.netlify.app/"
             },
-            "canceled": false,
+            "canceled": true,
             "moreLink": ""
         },
         {
@@ -72,6 +72,22 @@
             "tags": {
                 "time": "Ab 9:50",
                 "location": "IGS-Mensa"
+            },
+            "registration": {
+                "required": false,
+                "url": ""
+            },
+            "canceled": false,
+            "moreLink": ""
+        },
+        {
+            "id": 6,
+            "date": "2026-10-11",
+            "startTime": "00:00",
+            "title": "Testevent",
+            "tags": {
+                "time": "Testzeit",
+                "location": "Testort"
             },
             "registration": {
                 "required": false,
