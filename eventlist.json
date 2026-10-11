@@ -47,22 +47,6 @@
             },
             "canceled": true,
             "moreLink": "https://halloween-ohz.netlify.app/"
-        },
-        {
-            "id": 4,
-            "date": "2026-12-31",
-            "startTime": "00:00",
-            "title": "Testevent2",
-            "tags": {
-                "time": "Testzeit2",
-                "location": "Testort2"
-            },
-            "registration": {
-                "required": true,
-                "url": "https://halloween-ohz-u16.netlify.app/"
-            },
-            "canceled": false,
-            "moreLink": ""
         }
     ]
 }
