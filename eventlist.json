@@ -59,7 +59,7 @@
             },
             "registration": {
                 "required": true,
-                "url": "testurl.com"
+                "url": "https://halloween-ohz-u16.netlify.app/"
             },
             "canceled": false,
             "moreLink": ""
