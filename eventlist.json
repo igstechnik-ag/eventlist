@@ -30,7 +30,7 @@
                 "url": ""
             },
             "canceled": false,
-            "moreLink": ""
+            "moreLink": "https://halloween-ohz-u16.netlify.app/"
         },
         {
             "id": 3,
@@ -46,7 +46,7 @@
                 "url": "https://halloween-ohz.netlify.app/"
             },
             "canceled": true,
-            "moreLink": ""
+            "moreLink": "https://halloween-ohz.netlify.app/"
         }
     ]
 }
