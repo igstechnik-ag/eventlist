@@ -3,6 +3,7 @@
         {
             "id": 1,
             "date": "2026-10-30",
+            "startTime": "15:00",
             "title": "NIGHTMARE ON MENSINGSTREET JAHRGANG 5-9",
             "tags": {
                 "time": "Ab 15:00",
@@ -18,6 +19,7 @@
         {
             "id": 2,
             "date": "2026-10-30",
+            "startTime": "19:00",
             "title": "NIGHTMARE ON MENSINGSTREET JAHRGANG 10-13",
             "tags": {
                 "time": "Ab 19:00",
@@ -33,6 +35,7 @@
         {
             "id": 3,
             "date": "2026-12-01",
+            "startTime": "19:30",
             "title": "Weihnachtskonzert 2026",
             "tags": {
                 "time": "Ab 19:30",
@@ -48,6 +51,7 @@
         {
             "id": 4,
             "date": "2027-02-25",
+            "startTime": "19:30",
             "title": "Verdenaufführung 2027",
             "tags": {
                 "time": "Ab 19:30",
@@ -63,6 +67,7 @@
         {
             "id": 5,
             "date": "2027-02-26",
+            "startTime": "09:50",
             "title": "Verdenaufführung 2027",
             "tags": {
                 "time": "Ab 9:50",
