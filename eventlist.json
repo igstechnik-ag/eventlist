@@ -3,7 +3,7 @@
         {
             "id": 1,
             "date": "2026-10-30",
-            "title": "NIGHTMARE ON MENSING STREET JG 5-9",
+            "title": "NIGHTMARE ON MENSINGSTREET JAHRGANG 5-9",
             "tags": {
                 "time": "Ab 15:00",
                 "location": "IGS-Mensa"
@@ -18,7 +18,7 @@
         {
             "id": 2,
             "date": "2026-10-30",
-            "title": "NIGHTMARE ON MENSING STREET JG 10-13",
+            "title": "NIGHTMARE ON MENSINGSTREET JAHRGANG 10-13",
             "tags": {
                 "time": "Ab 19:00",
                 "location": "IGS-Mensa"
@@ -48,7 +48,7 @@
         {
             "id": 4,
             "date": "2027-02-25",
-            "title": "Verdenaufführung 2027 N1",
+            "title": "Verdenaufführung 2027",
             "tags": {
                 "time": "Ab 19:30",
                 "location": "IGS-Mensa"
@@ -63,7 +63,7 @@
         {
             "id": 5,
             "date": "2027-02-26",
-            "title": "Verdenaufführung 2027 N2",
+            "title": "Verdenaufführung 2027",
             "tags": {
                 "time": "Ab 9:50",
                 "location": "IGS-Mensa"
