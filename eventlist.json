@@ -29,7 +29,7 @@
                 "required": false,
                 "url": ""
             },
-            "canceled": false,
+            "canceled": true,
             "moreLink": "https://halloween-ohz-u16.netlify.app/"
         }
     ]
