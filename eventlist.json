@@ -26,8 +26,8 @@
                 "location": "IGS-Mensa"
             },
             "registration": {
-                "required": false,
-                "url": ""
+                "required": true,
+                "url": "https://halloween-ohz-u16.netlify.app/"
             },
             "canceled": true,
             "moreLink": "https://halloween-ohz-u16.netlify.app/"
