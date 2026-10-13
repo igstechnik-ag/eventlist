@@ -47,22 +47,6 @@
             },
             "canceled": false,
             "moreLink": "https://halloween-ohz-u16.netlify.app/"
-        },
-        {
-            "id": 4,
-            "date": "2026-10-30",
-            "startTime": "15:40",
-            "title": "NIGHTMARE ON MENSINGSTREET 2",
-            "tags": {
-                "time": "Ab 15:40",
-                "location": "IGS-Mensa"
-            },
-            "registration": {
-                "required": false,
-                "url": ""
-            },
-            "canceled": false,
-            "moreLink": ""
         }
     ]
 }
